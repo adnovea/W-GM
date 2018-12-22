@@ -56,7 +56,7 @@ See also:
 
 *Read the W-GM.PDF file*
 
-![W-GM Counter schematics](images/W-GM Counter Schematic.png)
+![W-GM Counter schematics](images/W-GM_00.png)
 
 ![W-GM Counter schematics](images/W-GM_04.jpg)
 
